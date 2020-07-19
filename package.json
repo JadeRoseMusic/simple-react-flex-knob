@@ -1,0 +1,19 @@
+{
+  "name": "simple-react-flex-knob",
+  "version": "1.0.0",
+  "description": "simple dynamically resizable knob component for react",
+  "main": "simple-react-flex-knob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadeRoseMusic/simple-react-flex-knob.git"
+  },
+  "author": "Jade Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadeRoseMusic/simple-react-flex-knob/issues"
+  },
+  "homepage": "https://github.com/JadeRoseMusic/simple-react-flex-knob#readme"
+}
