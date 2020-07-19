@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JadeRoseMusic/simple-react-flex-knob/issues"
   },
-  "homepage": "https://github.com/JadeRoseMusic/simple-react-flex-knob#readme"
+  "homepage": "https://github.com/JadeRoseMusic/simple-react-flex-knob#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
