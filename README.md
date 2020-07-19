@@ -4,4 +4,4 @@ drop the simmple-react-flex-knob.js file into /src
 
 import Knob from './simple-react-flex-knob'
 
-return <Knob width="20%" color="green" pointerColor="gray" action={(midi, val) => console.log(midi + " " + val)} />
+return <Knob diameter="20%" color="green" pointerColor="gray" action={(midi, val) => console.log(midi + " " + val)} />
