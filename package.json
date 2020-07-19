@@ -1,6 +1,6 @@
 {
   "name": "simple-react-flex-knob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple dynamically resizable knob component for react",
   "main": "simple-react-flex-knob.js",
   "scripts": {
