@@ -1,0 +1,6 @@
+{
+  "short_name": "simple-react-flex-knob-demo",
+  "name": "simple-react-flex-knob-demo",
+  "start_url": ".",
+  "display": "standalone"
+}
